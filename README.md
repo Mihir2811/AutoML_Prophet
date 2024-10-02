@@ -1,4 +1,4 @@
-This report details the development of a machine learning model for predicting the
+This Model details the development of a machine learning model for predicting the
 prices of second-hand cars, utilizing a dataset generated from key vehicle
 features. The dataset includes variables such as manufacturer, model, year of
 purchase, fuel type, and mileage. Through exploratory data analysis (EDA), we
